@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img align="left" width="47%" src = "https://github-readme-stats.vercel.app/api?username=chamaxx9zp&show_icons=true&theme=radical">
-<img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=chamaxx9zp&layout=compact)](https://github.com/chamaxx9zp/github-readme-stats">
+<img align="right" width="47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=chamaxx9zp&theme=monokai&include_all_commits=true&count_private=true&layout=compact">
+
+
