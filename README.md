@@ -1,4 +1,6 @@
 ### Hi there, I'm Chamaka Piyumal. 👋
+ 🌱 I’m currently learning Prompt Engineering. 
+ 💬 Ask me about anything, I'm happy to help. 
 
 <!--
 **chamaxx9zp/chamaxx9zp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
